@@ -1,4 +1,4 @@
-i{
+{
     "visualization_server": "harishmobius/visualization-server:2.5.0-400719c",
     "frontend": "harishmobius/frontend:2.5.0-308f3e0"
 }
